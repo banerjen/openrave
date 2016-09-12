@@ -14,7 +14,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#ifndef Q_MOC_RUN
+//#ifndef Q_MOC_RUN
 
 #ifndef RAVE_QTCOINGUI_H
 #define RAVE_QTCOINGUI_H
@@ -598,4 +598,4 @@ BOOST_TYPEOF_REGISTER_TYPE(QtCoinViewer::EnvMessage)
 
 #endif
 
-#endif
+//#endif
